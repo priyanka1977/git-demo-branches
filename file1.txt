@@ -1,0 +1,5 @@
+Fruits:
+   - mango
+   - apple
+   - banana
+
