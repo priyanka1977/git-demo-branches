@@ -2,4 +2,6 @@ Fruits:
    - mango
    - apple
    - banana
+   - pineapple
+   - watermelon
 
