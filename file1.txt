@@ -6,7 +6,6 @@ Fruits:
    - watermelon  
    - tomato
    - Chikku
-
-
-
-
+   - strawberry
+   - blueberry
+   -jackfruit
