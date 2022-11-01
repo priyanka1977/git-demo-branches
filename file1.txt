@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fruits
 
 
@@ -10,3 +11,16 @@ jackfruit
 mango
 strawberry 
 blueberry
+=======
+Fruits:
+   - mango
+   - apple
+   - banana
+   - pineapple
+   - watermelon  
+   - tomato
+   - Chikku
+   - strawberry
+   - blueberry
+   -jackfruit
+>>>>>>> 836da188a61b039d570b8d15fc31ef38936a6284
