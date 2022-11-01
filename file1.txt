@@ -3,5 +3,10 @@ Fruits:
    - apple
    - banana
    - pineapple
-   - watermelon
+   - watermelon  
+   - tomato
+   - Chikku
+
+
+
 
