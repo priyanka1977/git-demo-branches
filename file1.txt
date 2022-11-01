@@ -8,3 +8,5 @@ apple
 banana
 jackfruit
 mango
+strawberry 
+blueberry
