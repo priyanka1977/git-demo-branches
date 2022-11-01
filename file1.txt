@@ -4,4 +4,7 @@ Fruits:
    - banana
    - pineapple
    - watermelon
+   - strawberry
+   - blueberry
+   -jackfruit
 
